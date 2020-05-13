@@ -1,0 +1,6 @@
+On Start:
+Open 3 terminals
+
+1. Run: nom run dev
+2. Run: ngrok http 3000 - put address in /src/api/tracker.js
+3. Run: npm start
